@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "389936192525",
+    "firebase_url": "https://ebook-1b7f9-default-rtdb.firebaseio.com",
+    "project_id": "ebook-1b7f9",
+    "storage_bucket": "ebook-1b7f9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:389936192525:android:fb87a2468b3414d4d4c944",
+        "android_client_info": {
+          "package_name": "yasirjamil.airlift.ebook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "389936192525-0qsaus0ijebch0298568vblm9bgr8c5v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "yasirjamil.airlift.ebook",
+            "certificate_hash": "75a040facb2c200b6f0a62cccbe14a5369014903"
+          }
+        },
+        {
+          "client_id": "389936192525-smjesae1le8936a6qr0ip4s7nmugsb01.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAH8thRIXEORGgXGJlsaPa5JjDZw89ckjU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "389936192525-smjesae1le8936a6qr0ip4s7nmugsb01.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
